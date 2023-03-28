@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo15102
-Fork on GitHub4091
+
 <h1 align="center">Merhaba 👋, ben Furkan Mehmet Turgut</h1>
 <h3 align="center">Mobil uygulama geliştirici ve yazılım meraklısı birisi</h3>
 
