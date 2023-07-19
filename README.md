@@ -1,7 +1,7 @@
 
 <h1 align="center">Merhaba 👋, ben Furkan Mehmet Turgut</h1>
 
-<h3 align="center">Mobil Uygulama Geliştirici</h3>
+<h3 align="center">Software Developer</h3>
 
 <h3 align="left">İletişim:</h3>
 
