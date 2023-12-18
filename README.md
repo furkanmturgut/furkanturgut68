@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Merhaba 👋, ben Furkan Mehmet Turgut</h1>
 
 <h3 align="center">Yazılım Geliştirici</h3>
@@ -27,6 +28,12 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="[PrimeVue - Vue UI Component Library](https://primevue.org/)" target="_blank">
+    <img src="https://www.primefaces.org/wp-content/uploads/2019/05/primevue-logo-200.png" alt="PrimeVue" width="40" height="40" />
+  </a>
+    <a href="[Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/)" target="_blank">
+    <img src="https://iconape.com/wp-content/files/an/351546/png/tailwind-css-logo.png" alt="Tailwind CSS" width="40" height="40" />
   </a>
 </p>
 
