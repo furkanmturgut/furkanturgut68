@@ -35,6 +35,11 @@
     <a href="[Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/)" target="_blank">
     <img src="https://iconape.com/wp-content/files/an/351546/png/tailwind-css-logo.png" alt="Tailwind CSS" width="40" height="40" />
   </a>
+    </a>
+    <a href="[PrimeFlex](https://primeflex.com/)" target="_blank">
+    <img src="https://www.primefaces.org/cdn/primeflex/images/PrimeFlexLogo.svg" alt="PrimeFlex" width="40" height="40" />
+  </a>
+  
 </p>
 
 
